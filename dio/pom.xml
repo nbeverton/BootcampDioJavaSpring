@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.nbeverton</groupId>
-	<artifactId>dio</artifactId>
+	<artifactId>JavaSpring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dio</name>
 	<description>Desafio do curso DIO sobre padrões de projetos</description>
